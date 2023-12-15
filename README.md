@@ -2,7 +2,7 @@
 
 
 - 🌐 Técnico de Redes de computadores
-- 🌱 Estudando programação
+- 🌱 Estudando desenvolvimento
 - 🐧 Linux Linux Linux
 
 
