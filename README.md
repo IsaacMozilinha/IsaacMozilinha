@@ -37,22 +37,28 @@
 <br />
 
 <h3 align="left">Tecnologias</h3>
-<h4 align="left">Backend</h4>
+<h4 align="left">Backend:</h4>
 <ul align="left">
   <li>.NET, PHP e Python</li>
 </ul>
-<h4 align="left">Frontend</h4>
+<h4 align="left">Frontend:</h4>
 <ul align="left">
   <li>HTML, CSS, Javascript, React e WordPress (CMS)</li>
 </ul>
-<h4 align="left">Banco de Dados</h4>
+<h4 align="left">Banco de Dados:</h4>
 <ul align="left">
   <li>MySQL e SQL Server</li>
 </ul>
-<h4 align="left">Cloud e Hospedagem</h4>
+<h4 align="left">Cloud e Hospedagem:</h4>
 <ul align="left">
   <li>Hostinger, Azure e Google Cloud</li>
 </ul>
 
+<h3 align="left">Aprendizados em andamento</h3>
+<ul align="left">
+  <li>Aprofundando conhecimentos em .NET</li>
+  <li>Revisitando algoritiomos e estrutura de dados</li>
+  <li>Estudando Inclusão de serviços em VPS</li>
+</ul>
 
 
