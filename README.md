@@ -16,10 +16,10 @@
 
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacMozilinha&show_icons=true&theme=gruvbox)
 
-# Stats Gerais
+
 ![Isaac's Stats](https://github-readme-stats.vercel.app/api?username=IsaacMozilinha&show_icons=true&theme=gruvbox)
 
-# Linguagens mais usadas
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMozilinha&theme=gruvbox)](https://github.com/IsaacMozilinha)
 <!--<div style="display: inime_block"><br>
 <img align="center" alt="Isaac-linux" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
