@@ -2,11 +2,15 @@
 ![IsaacMozilinha Banner Image](./banner.png)
 
 
-## No começo do código eu pensei que não tinha entendido nada, e no final eu estava no começo!  🤯
+## Prazer, eu sou o Isaac!
+*Desenvolvedor Júnior*
+<br /> 
 
+<p align="left">Criando soluções Web por meio de .NET, Javascript, HTML, CSS </p>
 
-- 🌐 Técnico de Redes de computadores
-- 🌱 Estudando desenvolvimento
+- 🌐 Habilidades com de Redes de computadores
+- 🌱 Eterno aprendiz de tecnologia
+- :robot: Entusiasta de IA e Machine Learning
 - 🐧 Linux Linux Linux
 
 
