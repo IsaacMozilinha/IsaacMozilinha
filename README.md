@@ -55,7 +55,7 @@
 </ul>
 
 <h3 align="left">Aprendizados em andamento</h3>
-<ul align="left">
+<ul align="right">
   <li>Aprofundando conhecimentos em .NET</li>
   <li>Revisitando algoritiomos e estrutura de dados</li>
   <li>Estudando Inclusão de serviços em VPS</li>
