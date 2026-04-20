@@ -1,3 +1,7 @@
+<!--Banner-->
+![IsaacMozilinha Banner Image](./banner.png)
+
+
 ## No começo do código eu pensei que não tinha entendido nada, e no final eu estava no começo!  🤯
 
 
