@@ -53,5 +53,12 @@
   <li>Revisitando algoritiomos e estrutura de dados</li>
   <li>Estudando Inclusão de serviços em VPS</li>
 </ul>
+<br/>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/isaac-fs-santos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+
 
 
