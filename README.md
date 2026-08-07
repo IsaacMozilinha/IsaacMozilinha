@@ -13,11 +13,13 @@
 - :robot: Entusiasta de IA e Machine Learning
 - 🐧 Linux Linux Linux
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacMozilinha&show_icons=true&theme=gruvbox)
+
 
 ![Isaac's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IsaacMozilinha&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IsaacMozilinha&theme=gruvbox)](https://github.com/IsaacMozilinha)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=IsaacMozilinha&theme=gruvbox)
 <!--<div style="display: inime_block"><br>
 <img align="center" alt="Isaac-linux" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="center" alt="Isaac-csharp" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
