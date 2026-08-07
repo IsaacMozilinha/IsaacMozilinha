@@ -60,5 +60,6 @@
   </a>
 </p>
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IsaacMozilinha&theme=gruvbox)](https://github.com/IsaacMozilinha)
 
 
