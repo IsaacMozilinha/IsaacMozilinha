@@ -13,6 +13,7 @@
 - :robot: Entusiasta de IA e Machine Learning
 - 🐧 Linux Linux Linux
 
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacMozilinha&show_icons=true&theme=gruvbox)
 
 ![Isaac's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IsaacMozilinha&show_icons=true&theme=gruvbox)
 
