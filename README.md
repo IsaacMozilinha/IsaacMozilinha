@@ -14,13 +14,9 @@
 - 🐧 Linux Linux Linux
 
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacMozilinha&show_icons=true&theme=gruvbox)
+![Isaac's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IsaacMozilinha&show_icons=true&theme=gruvbox)
 
-
-![Isaac's Stats](https://github-readme-stats.vercel.app/api?username=IsaacMozilinha&show_icons=true&theme=gruvbox)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMozilinha&theme=gruvbox)](https://github.com/IsaacMozilinha)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IsaacMozilinha&theme=gruvbox)](https://github.com/IsaacMozilinha)
 <!--<div style="display: inime_block"><br>
 <img align="center" alt="Isaac-linux" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="center" alt="Isaac-csharp" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
