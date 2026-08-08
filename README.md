@@ -29,7 +29,7 @@
 
 <!-- Card de Streak com todos os textos e números forçados para Branco/Claro -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IsaacMozilinha&background=0d1117&border=30363d&stroke=ff6b00&ring=ff8c00&fire=ff6b00&currFire=ff8c00&sideLabels=ffffff&sideDays=ffffff&sideNum=ffffff&currStreakLabel=ff8c00&currStreakNum=ffffff&dates=ffffff&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=IsaacMozilinha&background=0d1117&border=30363d&stroke=ff6b00&ring=ff8c00&fire=ff6b00&currFire=ff8c00&sideLabels=ffffff&sideDays=ffffff&sideNum=ffffff&currStreakLabel=ff8c00&currStreakNum=ffffff&dates=ffffff&hide_border=false" width="100%" />
 </p>
 
 <!--<div style="display: inime_block"><br>
