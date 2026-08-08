@@ -21,13 +21,21 @@
 
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=IsaacMozilinha&theme=gruvbox) -->
 
-<!-- GitHub Stats e Top Langs com tema customizado Laranja & Preto -->
-![Isaac's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IsaacMozilinha&show_icons=true&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=ff6b00)
+<!-- Bloco de Estatísticas - Laranja & Preto -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IsaacMozilinha&show_icons=true&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=ff6b00" alt="Isaac's Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IsaacMozilinha&layout=compact&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=ff6b00" alt="Top Langs" />
+</p>
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IsaacMozilinha&layout=compact&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=ff6b00)](https://github.com/IsaacMozilinha)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IsaacMozilinha&background=0d1117&border=ff6b00&stroke=ff6b00&ring=ff8c00&fire=ff6b00&currFire=ff8c00&sideDays=ffffff&currStreakLabel=ff8c00&currStreakNum=ffffff&sideNum=ffffff&dates=888888&hide_border=false" alt="GitHub Streak" />
+</p>
 
-<!-- Gráfico de Atividade/Contribuições na mesma paleta -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IsaacMozilinha&bg_color=0d1117&color=ff6b00&line=ff8c00&point=ffffff&area=true&hide_border=false)](https://github.com/IsaacMozilinha)
+<p align="center">
+  <a href="https://github.com/IsaacMozilinha">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaacMozilinha&bg_color=0d1117&color=ff6b00&line=ff8c00&point=ffffff&area=true&hide_border=false" alt="GitHub Activity Graph" />
+  </a>
+</p>
 
 <!--<div style="display: inime_block"><br>
 <img align="center" alt="Isaac-linux" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
