@@ -8,7 +8,7 @@
 
 <p align="left">Criando soluções Web por meio de .NET, Javascript, HTML, CSS </p>
 
-- 🌐 Habilidades com de Redes de computadores
+- 🌐 Habilidades com Redes de computadores
 - 🌱 Eterno aprendiz de tecnologia
 - :robot: Entusiasta de IA e Machine Learning
 - 🐧 Linux Linux Linux
