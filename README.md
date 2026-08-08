@@ -21,18 +21,19 @@
 
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=IsaacMozilinha&theme=gruvbox) -->
 
-<!-- Seção de Estatísticas Alinhadas -->
-<div align="center">
-
-| ![Isaac's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IsaacMozilinha&show_icons=true&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=30363d) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IsaacMozilinha&layout=compact&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=30363d) |
-| :---: | :---: |
-
-</div>
-
+<!-- Seção de Estatísticas Lado a Lado (Sem borda de tabela) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IsaacMozilinha&background=0d1117&border=30363d&stroke=ff6b00&ring=ff8c00&fire=ff6b00&currFire=ff8c00&sideDays=e6e6e6&currStreakLabel=ff8c00&currStreakNum=ffffff&sideNum=ffffff&dates=a0a0a0&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IsaacMozilinha&show_icons=true&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=30363d" alt="Isaac's Stats" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IsaacMozilinha&layout=compact&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=30363d" alt="Top Langs" height="165" />
 </p>
 
+<!-- Card de Streak com Números Laterais Brancos Legíveis -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IsaacMozilinha&background=0d1117&border=30363d&stroke=ff6b00&ring=ff8c00&fire=ff6b00&currFire=ff8c00&sideDays=ffffff&sideNum=ffffff&currStreakLabel=ff8c00&currStreakNum=ffffff&dates=a0a0a0&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<!-- Gráfico de Atividade -->
 <p align="center">
   <a href="https://github.com/IsaacMozilinha">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaacMozilinha&bg_color=0d1117&color=ff6b00&line=ff8c00&point=ffffff&area=true&hide_border=false" alt="GitHub Activity Graph" />
