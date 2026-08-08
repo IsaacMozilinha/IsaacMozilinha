@@ -21,23 +21,15 @@
 
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=IsaacMozilinha&theme=gruvbox) -->
 
-<!-- Seção de Estatísticas Lado a Lado (Sem borda de tabela) -->
+<!-- Seção de Estatísticas Lado a Lado -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IsaacMozilinha&show_icons=true&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=30363d" alt="Isaac's Stats" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IsaacMozilinha&layout=compact&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=30363d" alt="Top Langs" height="400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IsaacMozilinha&show_icons=true&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=30363d" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IsaacMozilinha&layout=compact&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=30363d" width="48%" />
 </p>
 
-<!-- Card de Streak com Números Laterais Brancos Legíveis -->
+<!-- Card de Streak com todos os textos e números forçados para Branco/Claro -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IsaacMozilinha&background=0d1117&border=30363d&stroke=ff6b00&ring=ff8c00&fire=ff6b00&currFire=ff8c00&sideDays=ffffff&sideNum=ffffff&currStreakLabel=ff8c00&currStreakNum=ffffff&dates=a0a0a0&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<!-- Gráfico de Atividade -->
-<p align="center">
-  <a href="https://github.com/IsaacMozilinha">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaacMozilinha&bg_color=0d1117&color=ff6b00&line=ff8c00&point=ffffff&area=true&hide_border=false" alt="GitHub Activity Graph" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=IsaacMozilinha&background=0d1117&border=30363d&stroke=ff6b00&ring=ff8c00&fire=ff6b00&currFire=ff8c00&sideLabels=ffffff&sideDays=ffffff&sideNum=ffffff&currStreakLabel=ff8c00&currStreakNum=ffffff&dates=ffffff&hide_border=false" />
 </p>
 
 <!--<div style="display: inime_block"><br>
