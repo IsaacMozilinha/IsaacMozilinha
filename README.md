@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IsaacMozilinha&show_icons=true&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=30363d" alt="Isaac's Stats" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IsaacMozilinha&layout=compact&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=30363d" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IsaacMozilinha&layout=compact&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=30363d" alt="Top Langs" height="400" />
 </p>
 
 <!-- Card de Streak com Números Laterais Brancos Legíveis -->
