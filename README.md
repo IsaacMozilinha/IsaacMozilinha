@@ -24,7 +24,7 @@
 <!-- Seção de Estatísticas Lado a Lado -->
 <p align="center">
   <img src="https://github-stats-ivory-one.vercel.app/api?username=IsaacMozilinha&show_icons=true&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=30363d" width="48%" />
-  <img src="https://github-stats-ivory-one.vercel.app/api/top-langs/?username=IsaacMozilinha&layout=compact&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=30363d" width="42%" />
+  <img src="https://github-stats-ivory-one.vercel.app/api/top-langs/?username=IsaacMozilinha&layout=compact&bg_color=0d1117&title_color=ff6b00&text_color=ffffff&icon_color=ff8c00&border_color=30363d" width="43%" />
 </p>
 
 <!-- Card de Streak com todos os textos e números forçados para Branco/Claro -->
